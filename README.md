@@ -1,7 +1,7 @@
 # Alphabet-Substitution-Cipher-APK
 Basic APK, that takes a photo and uses a alphabet substitution cipher to decrypt top secret text. 
 
-This is highly confidential. If you are not Andre Henney, I welcome you to my cyber security project, in the case you are Andre Henney, might I say sir you look jolly fine today. 
+This is highly confidential. If you are not Mr. Henney, I welcome you to my cyber security project, in the case you are Mr. Henney, might I say sir you look jolly fine today. 
 
 The following is an Android Application that takes input via a photo and recieves the text from it, it then acts to decrypt the given text.
 
